@@ -1,0 +1,18 @@
+/* custom styles; */
+
+.actions ul {
+	margin-top: 20px;
+}
+.block-content {
+	float: left;
+	width: 81%;
+}
+
+#goodMessage {
+	background: green;
+	border: none;
+}
+/* check it; */
+#badMessage {
+	border: none;
+}
